@@ -19,7 +19,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
-env_template.txt
+.env_template
 
 npm-debug.log*
 yarn-debug.log*
@@ -30,4 +30,4 @@ yarn-error.log*
 /functions/.env.yaml
 /functions/node_modules
 /functions/package-lock.json
-env_template.txt
+.env_template.txt
