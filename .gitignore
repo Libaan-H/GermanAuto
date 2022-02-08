@@ -30,3 +30,4 @@ yarn-error.log*
 /functions/.env.yaml
 /functions/node_modules
 /functions/package-lock.json
+env_template.txt
