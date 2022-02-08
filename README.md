@@ -1,20 +1,3 @@
-## A fully-featured single-page app template, hosted and running in minutes. Based on Create-React-App and Firebase. Written with React-Hooks.
-
-**Live demo at: (https://react-firebase-essentials.com)**
-
-This is a full application template intended to provide the basic features that most online products or services need to get started, so that you can get straight into building out the important parts of your MVP without getting bogged down with the boring tasks that you've already done for a million apps before.
-
-**Features:**
-
-- Modern authentication UI flows have already been built out, it's as simple as plugging in your Firebase API keys. Email, Facebook and Google are all included methods.
-- Mobile-ready responsive design.
-- Utilizes Styled-Components, carefully using global variables that allow you to quickly and easily adjust to your tastes.
-- It's built entirely with React Hooks and the new Context API. Built on top of Create-React-App.
-- Requires very few dependencies. The least popular module it uses has 6.4k stars on Github.
-- Basic security rules have already been written for the Firestore DB.
-- Push Notifications set up out of the box, with a cloud function supplied for triggering messages.
-- Dark Mode! You gotta have dark mode!
-
 **Getting set up:** (in minutes)
 
 1. Make sure you have the Firebase CLI installed. Create a new project in the Firebase console and **make sure** you go into project settings and choose a GCP resource location under the general tab.
